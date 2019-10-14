@@ -3,5 +3,4 @@
 Сделано на create react app
 Время в календаре кликабельно (toggle)
 
-FC + hooks 
-Styled components
+FC + hooks + Styled components
